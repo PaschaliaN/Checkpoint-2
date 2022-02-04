@@ -59,7 +59,10 @@ footer p{
 
 .active a{
     text-decoration: none;
-    background-color: #27AB83;
+    background-color: #82E3C6;
+}
+a{
+    color: #00008F;
 }
 
 
